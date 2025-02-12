@@ -1,2 +1,2 @@
 # UaiFood
-Código em C
+Implementação de um aplicativo inspirado no Ifood em linguagem C
